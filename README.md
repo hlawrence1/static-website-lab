@@ -6,7 +6,7 @@ This Github repository contains a simple one page website which demonstrates the
 * Open the fork in a new Gitpod Workspace
 
 # Save Your Progress
-* Save the file you are working on
+* Save the file you are working on do the following steps:
 * Enter the following commands in your terminal:
   * `git status` (this command shows changes made to files)
   * `git add .` (this command stages files to be committed)
